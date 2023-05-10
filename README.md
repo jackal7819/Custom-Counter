@@ -1,6 +1,6 @@
 # Custom Counter
 
-## React, CSS, Hooks - useState, useEffect, useCallback, useRef
+## React, CSS, Hooks - useState, useEffect, custom Hook
 
 ### Demo - https://customcounter.onrender.com
 
